@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://gh0119.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://gh0119.github.io</link></image><lastBuildDate>Sun, 14 Sep 2025 12:57:00 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>HelloWord</title><link>https://gh0119.github.io/post/HelloWord.html</link><description># 🎉详细信息🎉
+# 🎉详细信息🎉
 
 姓名: 严运栋
 证件: 422301198401193413
@@ -65,4 +64,4 @@
 名字: 严运栋
 证件: 422301198401193413
 地址: 赣南师院文化与旅游系04级本科班
-手机: 13767784118。</description><guid isPermaLink="true">https://gh0119.github.io/post/HelloWord.html</guid><pubDate>Sun, 14 Sep 2025 12:56:27 +0000</pubDate></item></channel></rss>
+手机: 13767784118
